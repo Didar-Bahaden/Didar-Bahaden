@@ -20,7 +20,7 @@ I'm an **AI-Assisted Developer** on a slow and steady journey to master the fund
 - Bridging the gap between rapid AI-generated code (Next.js/Supabase) and a rock-solid understanding of how web architecture actually works under the hood.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/didar-bahaden)
 ---
 
 *Learning the fundamentals slowly, building the future collaboratively.*
